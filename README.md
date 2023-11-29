@@ -11,4 +11,4 @@ Neste desafio as seguintes implementações foram realizadas:
 [BookListView] (https://github.com/jnmouraneto/desafio-dois-escribo-play/blob/main/lib/screens/BookListView.dart)
 
 4 - Teste de click em um item da lista para implementação  - futura - do download do ebook
-[Teste de clique em lista](https://github.com/jnmouraneto/desafio-dois-escribo-play/blob/main/screeshots/testeClick.png)
+[Teste de clique em lista] (https://github.com/jnmouraneto/desafio-dois-escribo-play/blob/main/screeshots/testeClick.png)
