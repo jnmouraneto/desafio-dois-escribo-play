@@ -33,7 +33,6 @@ class BookListView extends StatelessWidget {
   }
 
   void onItemPressed(Book book) {
-    // Adicione a lógica que deseja executar quando um item for pressionado
     print('Livro clicado: ${book.title}');
   }
 }
