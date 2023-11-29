@@ -14,3 +14,7 @@ Neste desafio as seguintes implementações foram realizadas:
 
 4 - Teste de click em um item da lista para implementação  - futura - do download do ebook
 [Teste de clique em lista](https://github.com/jnmouraneto/desafio-dois-escribo-play/blob/main/screeshots/testeClick.png)
+
+
+[Arquivo APK para testes](https://github.com/jnmouraneto/desafio-dois-escribo-play/blob/main/app-release.apk)
+
