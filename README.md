@@ -1,6 +1,8 @@
 # desafio-dois-escribo-play
 
 Neste desafio as seguintes implementações foram realizadas:
+
+
 1 - No padrão MVC Criação do modelo de livro para receber os dados da API
 [BookModel](https://github.com/jnmouraneto/desafio-dois-escribo-play/blob/main/lib/models/BookModel.dart)
 
